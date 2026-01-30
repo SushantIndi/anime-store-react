@@ -1,21 +1,112 @@
-<<<<<<< HEAD
-# anime-store-react
-A React-based anime e-commerce application with authentication, protected routes, product catalog, cart functionality, and checkout flow using Context API.
-=======
-# React + Vite
+# 🛒 Anime Store – React Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based e-commerce web application for anime merchandise such as figures, accessories, and cosplay dresses.  
+Built with a clean component architecture, authentication flow, and cart management using Context API.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- User authentication (Login & Register)
+- Protected routes using React Router
+- Dashboard-based navigation
+- Product categories:
+  - Anime Figures
+  - Accessories
+  - Cosplay Dresses
+- Cart functionality using Context API
+- Checkout flow with QR-based payment simulation
+- Modular and scalable folder structure
+- Responsive UI with custom CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> be56385 (Initial commit - React Anime Store)
+- Frontend: React, JavaScript (ES6+)
+- Routing: React Router DOM
+- State Management: Context API
+- Build Tool: Vite
+- HTTP Client: Axios
+- Styling: CSS
+- Backend (Mock): JSON Server
+- Version Control: Git & GitHub
+
+---
+
+## 📁 Project Structure
+
+src/
+├── app/            # App entry & routing
+├── assets/         # Static data (JSON)
+├── components/     # Feature-based components
+│   ├── auth
+│   ├── dashboard
+│   ├── layout
+│   ├── profile
+│   └── shop
+├── context/        # Context API (Cart)
+├── main.jsx        # Application bootstrap
+└── index.css
+
+---
+
+## ▶️ Getting Started
+
+### Prerequisites
+- Node.js (v16 or above)
+- npm
+
+### Installation
+
+npm install
+
+### Run the application
+
+npm run dev
+
+The app will run at:
+http://localhost:5173
+
+---
+
+## 🔐 Authentication Flow
+
+- User registers and logs in
+- Login state stored in localStorage
+- Protected routes restrict access without authentication
+- Profile editing supported
+
+---
+
+## 🛍️ Cart & Checkout
+
+- Products can be added to cart
+- Cart state is managed globally using Context API
+- Checkout page displays product summary and QR payment simulation
+
+---
+
+## 📌 Future Enhancements
+
+- Real backend integration (Node.js + MongoDB)
+- Payment gateway integration
+- Order history feature
+- Admin panel
+- Redux or other advanced state management
+
+---
+
+## 👨‍💻 Author
+
+Sushant Indi  
+Electronics & Communication Engineering Student  
+Aspiring Frontend / Full Stack Developer  
+
+GitHub: https://github.com/SushantIndi
+
+---
+
+## ⭐ If you like this project
+
+Give it a star on GitHub — it really helps!
