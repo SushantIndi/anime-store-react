@@ -22,7 +22,8 @@ const Login = () => {
         e.preventDefault()
 
         try {
-            let response = await axios.get("http://localhost:5000/users")
+            let response = await axios.get("https://anime-store-backend.onrender.com/users")
+
             let users = response.data
 
             let matchedUser = users.find(

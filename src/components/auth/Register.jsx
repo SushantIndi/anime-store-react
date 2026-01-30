@@ -22,7 +22,8 @@ const Register = () => {
         e.preventDefault()
         try {
             const payload = { user, password, email, gender }
-            await axios.post("http://localhost:5000/users", payload)
+            await axios.post("https://anime-store-backend.onrender.com/users", payload)
+
             alert("Registration Successful")
         } catch (err) {
             console.log(err)
