@@ -22,7 +22,7 @@ const Register = () => {
         e.preventDefault()
         try {
             const payload = { user, password, email, gender }
-            await axios.post("http://localhost:3000/users", payload)
+            await axios.post("http://localhost:5000/users", payload)
             alert("Registration Successful")
         } catch (err) {
             console.log(err)
