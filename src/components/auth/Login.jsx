@@ -22,7 +22,7 @@ const Login = () => {
         e.preventDefault()
 
         try {
-            let response = await axios.get("https://anime-store-backend.onrender.com/users")
+            let response = await axios.get("http://localhost:3000/users")
 
             let users = response.data
 

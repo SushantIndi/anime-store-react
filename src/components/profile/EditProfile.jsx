@@ -18,7 +18,7 @@ const EditProfile = () => {
     useEffect(() => {
         const fetchProfile = async () => {
             try {
-                const res = await axios.get(`https://anime-store-backend.onrender.com/users/${id}`)
+                const res = await axios.get(`http://localhost:3000/users/${id}`)
                 setProfile(res.data)
             } catch (err) {
                 console.log(err)
@@ -39,7 +39,7 @@ const EditProfile = () => {
         e.preventDefault()
 
         try {
-            const res = await axios.put(`https://anime-store-backend.onrender.com/users/${id}`,
+            const res = await axios.put(`http://localhost:3000/users/${id}`,
                 {
                     id,
                     user,
