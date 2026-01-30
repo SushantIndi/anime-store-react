@@ -3,20 +3,22 @@ import cors from "cors";
 
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
-
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 10000;
 
 server.use(
     cors({
-        origin: "*",
-        methods: ["GET", "POST", "PUT", "DELETE"],
-        allowedHeaders: ["Content-Type"]
+        origin: "https://anime-store-react-app.netlify.app",
+        methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+        allowedHeaders: ["Content-Type"],
+        credentials: false
     })
 );
 
+server.options("*", cors());
+
 server.use(jsonServer.bodyParser);
 
-server.use("/users", router);
+server.use(router);
 
 server.listen(PORT, () => {
     console.log("JSON Server running on port", PORT);
