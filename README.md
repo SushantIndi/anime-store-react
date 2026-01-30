@@ -25,7 +25,7 @@ Built with a clean component architecture, authentication flow, and cart managem
 ## 🛠️ Tech Stack
 
 =======
-Live Demo: https://anime-store-react.netlify.app
+Live Demo: https://anime-store-react-app.netlify.app
 
 A modern React-based e-commerce web application for anime merchandise such as figures, accessories, and cosplay dresses.  
 Built with a clean component architecture, authentication flow, and cart management using Context API.
