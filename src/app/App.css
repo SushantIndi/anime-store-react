@@ -1,0 +1,97 @@
+.app-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+.nav-bar {
+  list-style: none;
+  padding: 20px;
+  margin: 0;
+  width: 220px;
+  background-color: #f4f4f4;
+}
+
+.nav-bar li {
+  margin-bottom: 15px;
+}
+
+.nav-bar li a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  font-size: 16px;
+  color: #333;
+  padding: 8px 10px;
+  border-radius: 6px;
+  transition: background 0.3s, color 0.3s;
+}
+
+.nav-icon {
+  font-size: 18px;
+}
+
+.nav-bar li a:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+.nav-user {
+  margin-top: auto;
+  font-weight: 600;
+  color: #374151;
+  padding: 10px;
+  border-top: 1px solid #cfb9b9;
+}
+
+
+.page-content {
+  flex: 1;
+  padding: 20px;
+}
+
+.home-content {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-title {
+  color: #ffd369;
+  font-size: 36px;
+  margin-bottom: 40px;
+}
+
+.auth-actions {
+  display: flex;
+  gap: 30px;
+}
+
+.auth-btn {
+  padding: 14px 36px;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.login-btn {
+  background-color: #007bff;
+  color: white;
+}
+
+.login-btn:hover {
+  background-color: #0056b3;
+}
+
+.register-btn {
+  background-color: #28a745;
+  color: white;
+}
+
+.register-btn:hover {
+  background-color: #1e7e34;
+}

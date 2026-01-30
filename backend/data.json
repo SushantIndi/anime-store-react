@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "cb49",
+      "user": "Sushant",
+      "password": "Sushant@2211",
+      "email": "sushantindi@gmail.com",
+      "gender": "Male"
+    },
+    {
+      "id": "106a",
+      "user": "Lekhana",
+      "password": "Lekha@2903",
+      "email": "Lekh@gmail.com",
+      "gender": "Female"
+    },
+    {
+      "id": "19e8",
+      "user": "Anu",
+      "password": "0231",
+      "email": "anu2007@gmail.com",
+      "gender": "Female"
+    }
+  ]
+}

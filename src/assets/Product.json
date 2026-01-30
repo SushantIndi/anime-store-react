@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "name": "Monkey D. Luffy Gear 5 Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "One Piece",
+    "price": 4999,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.jDyhL16yPQUkTK41wuGl6QHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Epic Gear 5 Luffy figure with dynamic pose"
+  },
+  {
+    "id": 2,
+    "name": "Roronoa Zoro Three Sword Style Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "One Piece",
+    "price": 4599,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.-tYwnwo9xbWVs_VGcrAixQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Zoro in Santoryu battle stance"
+  },
+  {
+    "id": 3,
+    "name": "Sanji Black Leg Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "One Piece",
+    "price": 3999,
+    "image": "https://media.karousell.com/media/photos/products/2020/9/10/dream_studio_one_piece_recast__1599737599_b6dd3489",
+    "description": "Sanji mid-kick with flame effect"
+  },
+  {
+    "id": 4,
+    "name": "Trafalgar Law Room Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "One Piece",
+    "price": 4899,
+    "image": "https://i0.wp.com/www.shibugo.com/wp-content/uploads/2022/05/figurine-trafalgar-Law.jpg",
+    "description": "Law using Ope Ope no Mi ability"
+  },
+  {
+    "id": 5,
+    "name": "Portgas D. Ace Flame Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "One Piece",
+    "price": 4699,
+    "image": "https://i5.walmartimages.com/seo/New-One-Piece-Portgas-D-Ace-35cm-13-7inch-Flame-Shape-Character-Anime-Statue-Figurine-Desktop-Ornament-Popular-Decorations-Fan-Souvenirs-Creative-Gif_92669130-594d-47de-a605-1a20a77b13ec.3024c94d9ad88e434cc71efffdbc03fc.jpeg",
+    "description": "Ace surrounded by blazing fire effects"
+  },
+  {
+    "id": 6,
+    "name": "Shanks Emperor Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "One Piece",
+    "price": 5199,
+    "image": "https://www.mugiwara-shop.com/wp-content/uploads/2022/12/Sbc868490949f47e1bb58c53fa36707258.jpg",
+    "description": "Red-Haired Shanks with conqueror aura"
+  },
+  {
+    "id": 7,
+    "name": "Kaido Dragon Form Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "One Piece",
+    "price": 6999,
+    "image": "https://www.mugiwara-shop.com/wp-content/uploads/2022/08/S1b3c3f05841047ae83b73ca41eca46d5E.jpg_960x960.jpg",
+    "description": "Massive Kaido dragon transformation"
+  },
+  {
+    "id": 8,
+    "name": "Boa Hancock Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "One Piece",
+    "price": 4299,
+    "image": "https://www.figurine-one-piece.com/wp-content/uploads/2019/11/boa-hancock-hqs-1-4-resine-tsume-site-figurine-one-piece-image-officiel-768x918.jpeg",
+    "description": "Pirate Empress with elegant pose"
+  },
+  {
+    "id": 9,
+    "name": "Nico Robin Demonio Fleur Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "One Piece",
+    "price": 4599,
+    "image": "https://i.etsystatic.com/57991888/r/il/3def76/6769238603/il_fullxfull.6769238603_d41e.jpg",
+    "description": "Robin awakened form figurine"
+  },
+  {
+    "id": 10,
+    "name": "Tony Tony Chopper Cute Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "One Piece",
+    "price": 2499,
+    "image": "https://www.shibugo.com/wp-content/uploads/2024/12/TSOP06A-Tony-Tony-Chopper-tsume-art.webp",
+    "description": "Chopper in classic adorable style"
+  },
+  {
+    "id": 11,
+    "name": "Straw Hat of Luffy",
+    "category": "anime",
+    "type": "prop",
+    "anime": "One Piece",
+    "price": 1999,
+    "image": "https://www.kindpng.com/picc/m/187-1879717_straw-hat-yellow-hat-clipart-one-piece-hat.png",
+    "description": "Replica of Luffy’s iconic straw hat"
+  },
+  {
+    "id": 12,
+    "name": "Roronoa Zoro Katana Replica",
+    "category": "anime",
+    "type": "prop",
+    "anime": "One Piece",
+    "price": 3499,
+    "image": "https://cdn.webshopapp.com/shops/305440/files/375003469/image.jpg",
+    "description": "Decorative sword inspired by Zoro’s blades"
+  },
+  {
+    "id": 13,
+    "name": "One Piece Devil Fruit Replica",
+    "category": "anime",
+    "type": "prop",
+    "anime": "One Piece",
+    "price": 2299,
+    "image": "https://onepiece-universe.com/wp-content/uploads/2023/08/One-Piece-Devil-Fruit-Figure-Replica-Toy-for-Sale-6-600x600.jpg",
+    "description": "Stylized devil fruit collectible"
+  },
+  {
+    "id": 14,
+    "name": "Naruto Sage Mode Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "Naruto Shippuden",
+    "price": 3999,
+    "image": "https://imaginaire.com/docs/Z-819872011904.JPG",
+    "description": "Naruto in powerful Sage Mode stance"
+  },
+  {
+    "id": 15,
+    "name": "Itachi Uchiha Anbu Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "Naruto Shippuden",
+    "price": 4299,
+    "image": "https://boutique-manga.fr/wp-content/uploads/2021/01/Figurine-Itachi-Anbu-Present.jpg",
+    "description": "Itachi in calm yet deadly pose"
+  },
+  {
+    "id": 16,
+    "name": "Dragon Ball Z Dragon Balls Set",
+    "category": "anime",
+    "type": "prop",
+    "anime": "Dragon Ball Z",
+    "price": 2999,
+    "image": "https://i.etsystatic.com/36681605/r/il/a9e811/5164796201/il_fullxfull.5164796201_6bgy.jpg",
+    "description": "Complete 7-star dragon ball replica set"
+  },
+  {
+    "id": 17,
+    "name": "Goku Ultra Instinct Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "Dragon Ball Super",
+    "price": 4899,
+    "image": "https://www.boutique-dragon-ball.com/wp-content/uploads/2024/02/Figurine-Dragon-Ball-Z-Goku-Ultra-Instinct-990x990.jpeg",
+    "description": "Ultra Instinct Goku battle figure"
+  },
+  {
+    "id": 18,
+    "name": "Attack on Titan Scout Cloak",
+    "category": "anime",
+    "type": "prop",
+    "anime": "Attack on Titan",
+    "price": 2799,
+    "image": "https://shutupandtakemyyen.com/wp-content/uploads/2018/05/Attack-On-Titan-Snuggie-768x768.jpg",
+    "description": "Survey Corps cloak replica"
+  },
+  {
+    "id": 19,
+    "name": "Levi Ackerman Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "Attack on Titan",
+    "price": 4499,
+    "image": "https://i.etsystatic.com/26953968/r/il/51ea64/2820915741/il_1588xN.2820915741_iczz.jpg",
+    "description": "Levi mid-air combat pose"
+  },
+  {
+    "id": 20,
+    "name": "Demon Slayer Nichirin Sword",
+    "category": "anime",
+    "type": "prop",
+    "anime": "Demon Slayer",
+    "price": 3299,
+    "image": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwb829af1c/rightstuf/4573102654724_figure-sword-nichirin-muichiro-tokito-dmeon-slayer-proplica-alta.jpg",
+    "description": "Decorative Nichirin blade replica"
+  },
+  {
+    "id": 21,
+    "name": "Tanjiro Kamado Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "Demon Slayer",
+    "price": 3899,
+    "image": "https://kimeshoten.fr/wp-content/uploads/2024/03/tanjiro-image-principale-by-aniplex.png",
+    "description": "Tanjiro with water breathing effect"
+  },
+  {
+    "id": 22,
+    "name": "Gojo Satoru Hollow Purple Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "Jujutsu Kaisen",
+    "price": 4999,
+    "image": "https://www.tradeinn.com/f/14028/140280340/megahouse-figurine-jujutsu-kaisen-satoru-gojo-hollow-technique-purple-dx.jpg",
+    "description": "Gojo using Hollow Purple attack"
+  },
+  {
+    "id": 23,
+    "name": "Sukuna Curse Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "Jujutsu Kaisen",
+    "price": 4699,
+    "image": "https://www.pro-bems.com/IMAGES/images_1/FIGBTN621047/g/FIGBTN621047_1.jpg",
+    "description": "Ryomen Sukuna menacing pose"
+  },
+  {
+    "id": 24,
+    "name": "Death Note Replica Notebook",
+    "category": "anime",
+    "type": "prop",
+    "anime": "Death Note",
+    "price": 1599,
+    "image": "https://m.media-amazon.com/images/I/710firALnrS._AC_SS450_.jpg",
+    "description": "Collector edition Death Note replica"
+  },
+  {
+    "id": 25,
+    "name": "L Lawliet Figurine",
+    "category": "anime",
+    "type": "figurine",
+    "anime": "Death Note",
+    "price": 3499,
+    "image": "https://m.media-amazon.com/images/I/615GHEA5bPL._AC_UF894,1000_QL80_.jpg",
+    "description": "L sitting in his iconic posture"
+  }
+]

@@ -1,0 +1,79 @@
+.login-container {
+  height: calc(100vh - 40px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-form {
+  width: 380px;
+  background: white;
+  padding: 35px 40px;
+  border-radius: 12px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.08);
+  border: 1px solid #e5e7eb;
+}
+
+.login-form h2 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #111827;
+}
+
+.login-form label {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  color: #374151;
+  margin-bottom: 6px;
+  display: block;
+}
+
+.login-form input[type="text"],
+.login-form input[type="password"] {
+  width: 100%;
+  padding: 11px 12px;
+  font-size: 14px;
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  margin-bottom: 18px;
+  transition: all 0.25s ease;
+}
+
+.login-form input:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.15);
+}
+
+.login-form .gender-group {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #374151;
+}
+
+.login-form input[type="radio"] {
+  accent-color: #007bff;
+  cursor: pointer;
+}
+
+.login-form input[type="submit"] {
+  width: 100%;
+  padding: 12px;
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 8px;
+  border: none;
+  background: linear-gradient(135deg, #007bff, #0056b3);
+  color: white;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.login-form input[type="submit"]:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 8px 20px rgba(0, 123, 255, 0.3);
+}

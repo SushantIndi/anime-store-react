@@ -1,0 +1,99 @@
+.profile-container {
+    height: calc(100vh - 40px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-title {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #222;
+}
+
+.profile-card {
+    background: #fff;
+    padding: 30px;
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+    text-align: center;
+}
+
+.profile-card p {
+    font-size: 16px;
+    margin: 12px 0;
+    color: #444;
+}
+
+.profile-form {
+    background: #fff;
+    padding: 30px;
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+.profile-form label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 500;
+    color: #333;
+}
+
+.profile-form input,
+.profile-form select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 18px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    outline: none;
+    transition: border 0.2s;
+}
+
+.profile-form input:focus,
+.profile-form select:focus {
+    border-color: #4f46e5;
+}
+
+.primary-btn {
+    width: 100%;
+    padding: 12px;
+    background: #4f46e5;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.1s;
+}
+
+.primary-btn:hover {
+    background: #4338ca;
+    transform: translateY(-1px);
+}
+
+.profile-card .logout-btn {
+    width: 100%;
+    margin-top: 12px;
+    padding: 12px;
+    background: linear-gradient(135deg, #ef4444, #b91c1c);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: transform 0.1s, box-shadow 0.2s;
+}
+
+.logout-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 8px 20px rgba(239, 68, 68, 0.35);
+}
