@@ -1,5 +1,6 @@
 # 🛒 Anime Store – React Application
 
+
 A modern React-based e-commerce web application for anime merchandise such as figures, accessories, and cosplay dresses.  
 Built with a clean component architecture, authentication flow, and cart management using Context API.
 
@@ -23,6 +24,32 @@ Built with a clean component architecture, authentication flow, and cart managem
 
 ## 🛠️ Tech Stack
 
+=======
+Live Demo: https://anime-store-react.netlify.app
+
+A modern React-based e-commerce web application for anime merchandise such as figures, accessories, and cosplay dresses.  
+Built with a clean component architecture, authentication flow, and cart management using Context API.
+
+---
+
+## 🚀 Features
+
+- User authentication (Login & Register)
+- Protected routes using React Router
+- Dashboard-based navigation
+- Product categories:
+  - Anime Figures
+  - Accessories
+  - Cosplay Dresses
+- Cart functionality using Context API
+- Checkout flow with QR-based payment simulation
+- Modular and scalable folder structure
+- Responsive UI with custom CSS
+
+---
+
+## 🛠️ Tech Stack
+(Fix Netlify deployment config and update README)
 - Frontend: React, JavaScript (ES6+)
 - Routing: React Router DOM
 - State Management: Context API
@@ -109,4 +136,8 @@ GitHub: https://github.com/SushantIndi
 
 ## ⭐ If you like this project
 
+<<<<<<< HEAD
 Give it a star on GitHub — it really helps!
+=======
+Give it a star on GitHub — it really helps!
+>>>>>>> 6d6ea9b (Fix Netlify deployment config and update README)
