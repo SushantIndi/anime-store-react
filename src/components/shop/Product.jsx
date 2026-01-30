@@ -2,7 +2,7 @@ import React, { useContext, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import products from "../../assets/Product.json";
 import { CartContext } from "../../context/CartContext";
-import "./Product.css";
+import "./product.css";
 
 const Product = () => {
     const { addToCart } = useContext(CartContext);
